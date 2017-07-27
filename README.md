@@ -1,1 +1,3 @@
-# study-tdd
+# study-phpunit
+
+Lets make some tests :D
